@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervync",
+        "uuid": 335360,
+        "checksum": "z3yr6l"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
